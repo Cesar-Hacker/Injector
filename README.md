@@ -1,8 +1,8 @@
 # Injector
-# Hola soy César Hack Grar
+# Hola soy César Hack Gray
 # para poder usar este script nesesitas la extension
 # insertamos en termux pkg install wget despues
-wget https://raw.githubusercontent.com/Cesar-Hacker/peyload/master/Injector_in_termux
+# wget https://raw.githubusercontent.com/Cesar-Hacker/peyload/master/Injector_in_termux
 # y ese script se encarga de la instalasion de Injector
 # comunicame
 # telegram https://t.me/joinchat/LGT7BRGoVMPWvJu7Qyq17g
