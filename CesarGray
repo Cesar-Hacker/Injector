@@ -97,7 +97,7 @@ printf "$R Descargandooo el cofigo fuentee....."
 echo
 sleep 7
 echo
-printf "$W Descargando 10... [>           ] tiempo 1:30 segundos "
+printf "$W Descargando 10...   [>           ] tiempo 1:30 segundos "
 echo
 echo
 sleep 23
