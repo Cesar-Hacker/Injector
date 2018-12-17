@@ -134,7 +134,7 @@ printf "$W Descargando 100...  [>>>>>>>>>>>>] tiempo 0 segundos"
 echo
 sleep 15
 echo
-printg "$W Extrayendo codigo fuente.."
+printf "$W Extrayendo codigo fuente.."
 echo
 echo
 sleep 24
