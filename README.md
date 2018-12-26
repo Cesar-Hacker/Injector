@@ -8,4 +8,6 @@
 # telegram https://t.me/joinchat/LGT7BRGoVMPWvJu7Qyq17g
 # you tube https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
 # suscribete a mi canal creame no te arrepentiras
+# chat directo al privado 
+# https://t.me/CesarGray
 # disfruta de Injector
